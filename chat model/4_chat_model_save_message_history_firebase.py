@@ -33,6 +33,6 @@ while True:
     chat_history.add_user_message(human_input)
 
     ai_response = model.invoke(chat_history.messages)
-    chat_history.add_ai_message(ai_response.content)
+    chat_history.add_ai_message(ai_response.content) #type: ignore
 
     print(f"AI: {ai_response.content}")
