@@ -12,7 +12,7 @@ prompt_template = ChatPromptTemplate.from_messages(
     [
         ("system", "Kamu adalah ahli dalam review produk."),
         ("human", "Daftar fitur utama dari produk {nama_produk}."),
-    ]
+    ] 
 )
 
 def analisis_keuntungan(fitur):
