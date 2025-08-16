@@ -1,0 +1,118 @@
+Panduan Lengkap Merakit PC dari Nol
+===================================
+
+Pendahuluan
+-----------
+Merakit PC sendiri bisa menjadi pengalaman yang menyenangkan sekaligus menantang. Dengan merakit, kamu dapat memilih komponen sesuai kebutuhan, menghemat biaya, dan mendapatkan pengetahuan yang berharga tentang hardware komputer. Buku kecil ini akan memandu kamu langkah demi langkah, mulai dari memahami komponen hingga menghidupkan PC pertama kali.
+
+Bab 1: Mengenal Komponen Utama PC
+---------------------------------
+1. Prosesor (CPU)
+   - Otak komputer yang bertugas menjalankan instruksi.
+   - Pilihan populer: Intel Core, AMD Ryzen.
+
+2. Motherboard
+   - Papan utama tempat semua komponen dipasang.
+   - Harus sesuai dengan soket CPU dan ukuran casing (ATX, Micro ATX, Mini ITX).
+
+3. Memori (RAM)
+   - Menyimpan data sementara saat komputer berjalan.
+   - Semakin besar kapasitas RAM, semakin lancar multitasking.
+
+4. Penyimpanan (Storage)
+   - HDD (kapasitas besar, harga murah).
+   - SSD (lebih cepat, lebih mahal).
+   - NVMe SSD (paling cepat, bentuk kecil seperti stik).
+
+5. Kartu Grafis (GPU)
+   - Penting untuk gaming, desain grafis, dan pekerjaan berat.
+   - Ada GPU terintegrasi (dalam CPU) dan GPU dedicated (NVIDIA, AMD).
+
+6. Power Supply Unit (PSU)
+   - Memberi daya ke seluruh komponen.
+   - Perhatikan watt dan sertifikasi (80+ Bronze, Silver, Gold).
+
+7. Casing
+   - Rumah untuk semua komponen.
+   - Perhatikan ukuran, aliran udara, dan estetika.
+
+8. Sistem Pendingin
+   - Pendingin bawaan CPU atau custom cooler.
+   - Bisa menggunakan air cooling atau liquid cooling.
+
+Bab 2: Persiapan Sebelum Merakit
+--------------------------------
+- Pastikan semua komponen kompatibel.
+- Siapkan obeng (+).
+- Gunakan meja kerja yang rapi.
+- Pastikan ada penerangan yang baik.
+- Pegang komponen dengan hati-hati untuk menghindari listrik statis.
+
+Bab 3: Langkah-langkah Merakit PC
+---------------------------------
+1. Pasang CPU ke Motherboard
+   - Buka soket CPU.
+   - Letakkan CPU sesuai tanda segitiga.
+   - Tutup soket dengan hati-hati.
+
+2. Pasang RAM
+   - Cari slot RAM.
+   - Tekan modul RAM sampai berbunyi "klik".
+
+3. Pasang Pendingin CPU
+   - Oleskan thermal paste (jika belum ada).
+   - Pasang cooler sesuai instruksi pabrikan.
+
+4. Pasang Motherboard ke Casing
+   - Pasang baut penyangga (standoff).
+   - Letakkan motherboard dan kencangkan dengan baut.
+
+5. Pasang Storage
+   - SSD/HDD ke slot drive.
+   - Hubungkan kabel SATA atau M.2 sesuai jenisnya.
+
+6. Pasang Kartu Grafis
+   - Masukkan ke slot PCIe.
+   - Kencangkan dengan baut.
+
+7. Pasang PSU
+   - Letakkan di tempat khusus casing.
+   - Hubungkan kabel daya ke motherboard, CPU, GPU, dan storage.
+
+8. Manajemen Kabel
+   - Rapikan kabel agar aliran udara lancar.
+   - Gunakan cable ties jika perlu.
+
+Bab 4: Menghidupkan PC
+----------------------
+1. Sambungkan monitor, keyboard, dan mouse.
+2. Tekan tombol power pada casing.
+3. Jika semua benar, PC akan menyala dan masuk ke BIOS.
+4. Atur urutan boot di BIOS (misalnya boot dari USB untuk instalasi OS).
+
+Bab 5: Instalasi Sistem Operasi
+-------------------------------
+1. Siapkan USB bootable dengan Windows atau Linux.
+2. Masuk BIOS dan atur boot dari USB.
+3. Ikuti panduan instalasi OS.
+4. Setelah selesai, instal driver untuk GPU, motherboard, dan perangkat lainnya.
+
+Bab 6: Tips dan Trik
+--------------------
+- Selalu periksa kompatibilitas komponen sebelum membeli.
+- Gunakan PSU dengan watt lebih besar dari kebutuhan agar lebih aman.
+- Lakukan update BIOS jika diperlukan.
+- Pantau suhu CPU dan GPU menggunakan software monitoring.
+- Bersihkan debu secara rutin untuk menjaga performa.
+
+Bab 7: Kesalahan Umum Saat Merakit PC
+-------------------------------------
+- Salah memasang RAM sehingga tidak terbaca.
+- Lupa menghubungkan kabel daya CPU.
+- Tidak mengoleskan thermal paste.
+- PSU berkualitas rendah yang menyebabkan masalah daya.
+- Casing terlalu kecil untuk komponen yang dipilih.
+
+Penutup
+-------
+Merakit PC bukan hanya soal menyusun komponen, tetapi juga tentang memahami cara kerja komputer. Dengan panduan ini, diharapkan kamu lebih percaya diri dalam merakit PC sendiri. Semoga PC barumu dapat digunakan untuk belajar, bekerja, atau bermain dengan lancar.
