@@ -25,7 +25,7 @@ def search_wikipedia(query):
 tools = [
     Tool(
         name="Time",
-        func=search_wikipedia,
+        func=get_current_time,
         description="Useful for when you need to know the current time.",
     ),
     Tool(
@@ -48,7 +48,7 @@ agent = create_structured_chat_agent(llm=llm, tools=tools, prompt=prompt)
 agent_executor = AgentExecutor.from_agent_and_tools(
     agent=agent,
     tools=tools,
-    verbose=True,
+    verbose=False,
     memory=memory,
     handle_parsing_errors=True,
 )
